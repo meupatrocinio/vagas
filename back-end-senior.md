@@ -1,5 +1,5 @@
 # Who we are
-We are a social network that allows people giving to each other the better part of a relationship. The first brazilian social network based in the Sugar lifestyle.
+[We are a social network](http://meupatrocinio.com/) that allows people giving to each other the better part of a relationship. The first brazilian social network based in the Sugar lifestyle.
 
 Our main objective is to link people that seeks an honest and transparent relationship.
 
